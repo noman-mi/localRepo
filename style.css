@@ -1,0 +1,8 @@
+p{
+    color: white;
+    background-color: black;
+}
+p:hover{
+    color: black;
+    background-color: white;
+}
